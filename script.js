@@ -4,7 +4,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const words = [
         { en: 'Apple', ru: 'Яблоко' },
         { en: 'Tree', ru: 'Дерево' },
-        { en: 'House', ru: 'Дом' },
         // Добавьте здесь больше слов
     ];
 
